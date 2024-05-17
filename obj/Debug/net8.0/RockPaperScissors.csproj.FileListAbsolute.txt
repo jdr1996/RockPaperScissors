@@ -1,0 +1,14 @@
+c:\Users\jdr12\repos\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jdr12\repos\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.AssemblyInfoInputs.cache
+c:\Users\jdr12\repos\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.AssemblyInfo.cs
+c:\Users\jdr12\repos\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+c:\Users\jdr12\repos\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.exe
+c:\Users\jdr12\repos\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.deps.json
+c:\Users\jdr12\repos\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.runtimeconfig.json
+c:\Users\jdr12\repos\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.dll
+c:\Users\jdr12\repos\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.pdb
+c:\Users\jdr12\repos\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.dll
+c:\Users\jdr12\repos\RockPaperScissors\obj\Debug\net8.0\refint\RockPaperScissors.dll
+c:\Users\jdr12\repos\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.pdb
+c:\Users\jdr12\repos\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.genruntimeconfig.cache
+c:\Users\jdr12\repos\RockPaperScissors\obj\Debug\net8.0\ref\RockPaperScissors.dll
